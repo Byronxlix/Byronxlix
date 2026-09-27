@@ -16,6 +16,7 @@ Currently, I work as a Graduate Student Business Analyst in Bentley University's
 ### Analytics & Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
 **Data:** Data Cleaning, Data Validation, Exploratory Data Analysis, Data Visualization  
 **Business:** Business Analysis, Research, Reporting, Data-Driven Decision Making  
 
@@ -46,7 +47,6 @@ M.S. Business Analytics
 **Bachelor's Degree**  
 Business Administration — Concentration in Finance
 
-## 📫 Connect With Me
 
 ## 📫 Connect With Me
 
