@@ -1,4 +1,4 @@
-<p align="center">  <img src="https://s7.ezgif.com/tmp/ezgif-7b50f838c1c85eaf.gif" width="20%" alt="Bayron Bonilla - Business Analytics"></p>
+<p align="center">  <img src="https://s7.ezgif.com/tmp/ezgif-7b50f838c1c85eaf.gif" width="30%" alt="Bayron Bonilla - Business Analytics"></p>
 
 ### Business Analytics | Data Analytics | Business Intelligence
 
