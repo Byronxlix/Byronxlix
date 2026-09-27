@@ -8,20 +8,29 @@ Currently, I work as a Graduate Student Business Analyst in Bentley University's
 
 ## 🛠 Technical Skills
 
-**Languages:** Python, SQL, R  
-**Analytics & Visualization:** Power BI, Excel, Statistical Modeling, Time Series Analysis  
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### Analytics & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 **Data:** Data Cleaning, Data Validation, Exploratory Data Analysis, Data Visualization  
 **Business:** Business Analysis, Research, Reporting, Data-Driven Decision Making  
 
 ## 📊 Featured Projects
 
-### Massachusetts High School Enrollment Projections
+### 📊 Massachusetts High School Enrollment Projections
 
-County-level high school enrollment projection analysis using U.S. Census American Community Survey (ACS) data, Python, cohort-survival methodology, and Power BI.
+County-level high school enrollment projection analysis using U.S. Census
+American Community Survey (ACS) data, Python, cohort-survival methodology,
+and Power BI.
 
 **Tools:** Python • Pandas • Power BI • U.S. Census ACS
 
-➡️ View the project in my pinned repositories.
+🔗 [View Project](https://github.com/Byronxlix/Massachusetts-high-school-enrollment-projections)
+
 
 ### Fraud Detection Database
 
@@ -39,4 +48,6 @@ Business Administration — Concentration in Finance
 
 ## 📫 Connect With Me
 
-**LinkedIn:** linkedin.com/in/bayronbonilla
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bayron_Bonilla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bayronbonilla)
