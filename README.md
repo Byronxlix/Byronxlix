@@ -1,4 +1,5 @@
-<p align="center"> <img src="[https://s7.ezgif.com/tmp/ezgif-77447e97f5598ca9.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFyZHRqd2FweDlnM2x1dXVpNmV5cTBxa3Z4YjgyaDIwYXU5MzV4ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LXoFuds81sEDJkUDkf/giphy.gif)" width="25%" alt="Bayron Bonilla - Business Analytics"></p>
+<p align="center"> <img src="<img width="356" height="200" alt="image" src="https://github.com/user-attachments/assets/467a0470-bc5d-4e26-948b-db35117a7f61" />
+" width="25%" alt="Bayron Bonilla - Business Analytics"></p>
 
 ### Business Analytics | Data Analytics | Business Intelligence
 
