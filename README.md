@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlvZmtmbHVkczBhMzJ1c2hucnpxZHJrN2Vka3B0ejRvMjc0OWYxNSZ1cD12MW9naWZzX3N1YXJjaCZjdD1n/zoKdmmndB8QBR2c0gjy/giphy.gif" width="240" alt="Bayron Bonilla - Business Analytics">
+  <img src="https://images.pexels.com/photos/31256342/pexels-photo-31256342.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-31256342.jpg&fm=jpg" width="240" alt="Bayron Bonilla - Business Analytics">
 </p>
 
 ### Business Analytics | Data Analytics | Business Intelligence
